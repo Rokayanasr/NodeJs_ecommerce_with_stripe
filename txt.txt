@@ -1,0 +1,4 @@
+token: 
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWQ0ZTFiOTM4YzVkYWU0MTYwNTcwN2YiLCJuYW1lIjoicm9rYXlhIG5hc3IiLCJlbWFpbCI6InJva2F5YW5hc3JAZ21haWwuY29tIiwiaXNBZG1pbiI6ZmFsc2UsImlhdCI6MTcwODQ1MDIzM30.ykF9WfBizKtHjEjPERoy_W5Qs7_cimBdx0jdXK3j7v8
+
+ngrock ----> deploy the application public
